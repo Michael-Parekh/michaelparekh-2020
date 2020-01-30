@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Helmet>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </Helmet>
   <Layout>
     <SEO title="Home" />
