@@ -8,7 +8,7 @@ import ProjectTwoImage from './project-two-image'
 import ProjectThreeImage from './project-three-image'
 import ProjectFourImage from './project-four-image'
 
-setConfiguration({ defaultScreenClass: 'xs', gutterWidth: 20, breakpoints: [500, 768, 992, 1200] });
+setConfiguration({ gutterWidth: 20, breakpoints: [500, 768, 992, 1200] });
 
 const Projects = ({ siteTitle }) => (
   <div
