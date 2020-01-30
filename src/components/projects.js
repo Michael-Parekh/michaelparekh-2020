@@ -10,6 +10,10 @@ import ProjectFourImage from './project-four-image'
 
 setConfiguration({ defaultScreenClass: 'xs', gutterWidth: 20, breakpoints: [500, 768, 992, 1200] });
 
+setTimeout(() => {
+  window.dispatchEvent(new Event('resize'));
+}, 0);
+
 const Projects = ({ siteTitle }) => (
   <div
     style={{
