@@ -5,7 +5,7 @@ import HeaderImage from "./image";
 import Particles from 'react-particles-js';
 import { setConfiguration, Container, Row, Col } from 'react-grid-system';
 
-setConfiguration({ defaultScreenClass: 'sm', breakpoints: [`576px`, `768px`, `992px`, `1200px`] });
+setConfiguration({ breakpoints: [`576px`, `768px`, `992px`, `1200px`] });
 
 
 const Header = ({ siteTitle }) => (
