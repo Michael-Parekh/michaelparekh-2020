@@ -7,7 +7,7 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+const IndexPage = () => {
   return (
     <Fragment>
       <Helmet>
@@ -19,6 +19,6 @@ const IndexPage = () => (
       </Layout>
     </Fragment>
   )
-)
+}
 
 export default IndexPage
