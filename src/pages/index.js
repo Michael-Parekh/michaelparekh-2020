@@ -1,5 +1,4 @@
 import React from "react"
-import Fragment from "react"
 import { Link } from "gatsby"
 import Helmet from "react-helmet"
 
@@ -9,15 +8,9 @@ import SEO from "../components/seo"
 
 const IndexPage = () => {
   return (
-    <Fragment>
-      <Helmet>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </Helmet>
-
-      <Layout>
-        <SEO title="Home" />
-      </Layout>
-    </Fragment>
+    <Layout>
+      <SEO title="Home" />
+    </Layout>
   )
 }
 
