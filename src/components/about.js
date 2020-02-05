@@ -24,7 +24,7 @@ const About = ({ siteTitle }) => (
           <ul>
             <li>📚 Senior @ William Fremd High School</li>
             <li>📱 Building iOS apps with Swift/Objective-C</li>
-            <li>🚵‍ Biking a total of 1000 miles in 2020</li>
+            <li>🚵‍ Biking towards a total of 1000 miles in 2020</li>
             <li>📦‍ Selling items for my online business</li>
             <li>🎸 Learning to play guitar on YouTube</li>
           </ul>
