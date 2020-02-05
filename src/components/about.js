@@ -39,7 +39,7 @@ const About = ({ siteTitle }) => (
     <p className="about-paragraph">
       I’m a <span className="highlight">student from the suburbs of Chicago</span>. I aim to provide students with the CS opportunities
       that I wish I had when I was younger. From Windy City Hacks to Hack Chicago, I have been fortunate to meet passionate individuals from
-      around the world and allow students to build their dreams into a reality with code. <span className="highlight">CS is a superpower</span> that has allowed me to build my visionary ideas into a reality,
+      around the world and inspire students to build their dreams with code. <span className="highlight">CS is a superpower</span> that has allowed me to build my visionary ideas into a reality,
       and <span className="highlight">I want to continue sharing it with others</span>.
     </p>
   </div>
