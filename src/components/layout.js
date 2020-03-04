@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
     }
   `)
 
-  return (
+  return typeof window !== 'undefined' && (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
