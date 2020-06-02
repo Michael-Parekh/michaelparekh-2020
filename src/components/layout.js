@@ -44,7 +44,7 @@ const Layout = ({ children }) => {
           <SocialIcon url="https://twitter.com/michaelparekh" target="_blank" style={{ height: 35, width: 35, margin: 5 }} bgColor="#6b76ff" fgColor="white"/>
           <SocialIcon url="https://linkedin.com/in/michael-parekh" target="_blank" style={{ height: 35, width: 35, margin: 5 }} bgColor="#6b76ff" fgColor="white"/>
           <SocialIcon url="https://github.com/Michael-Parekh" target="_blank" style={{ height: 35, width: 35, margin: 5 }} bgColor="#6b76ff" fgColor="white"/>
-          <SocialIcon url="mailto:parekh1392@students.d211.org" target="_blank" style={{ height: 35, width: 35, margin: 5 }} bgColor="#6b76ff" fgColor="white"/>
+          <SocialIcon url="mailto:mparekh4@illinois.edu" target="_blank" style={{ height: 35, width: 35, margin: 5 }} bgColor="#6b76ff" fgColor="white"/>
           <div className="footer-copyright">By Michael Parekh ✌️</div>
         </footer>
       </div>
