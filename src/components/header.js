@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => (
               <span>📍<a href="https://twitter.com/michaelparekh" target="_blank">Twitter</a></span>
               <span>👋<a href="https://linkedin.com/in/michael-parekh" target="_blank">LinkedIn</a></span>
               <span>💻<a href="https://github.com/Michael-Parekh" target="_blank">GitHub</a></span>
-              <span>✉️<a href="mailto:parekh1392@students.d211.org" target="_blank">Email</a></span>
+              <span>✉️<a href="mailto:mparekh4@illinois.edu" target="_blank">Email</a></span>
             </h4>
           </div>
         </Col>
