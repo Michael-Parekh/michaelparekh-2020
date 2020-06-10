@@ -26,7 +26,7 @@ const Projects = ({ siteTitle }) => (
     <Container>
       <Row justify="between">
         <Col xs={12} sm={12} md={12} lg={6} xl={6}>
-          <a href="https://windyhacks.com/" className="project-link" target="_blank">
+          <a href="https://2019.windyhacks.com/" className="project-link" target="_blank">
             <div className="project-container">
               <ProjectOneImage className="project-image" style={{ position: `relative`, top: 0, left: 0, height: `2rem` }} />
               <div className="project-box" id="project-box-one">
