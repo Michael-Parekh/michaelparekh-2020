@@ -22,10 +22,10 @@ const About = ({ siteTitle }) => (
       <Row>
         <Col md={7}>
           <ul>
-            <li>📚 Freshman @ University of Illinois at Urbana-Champaign</li>
+            <li>📚 Sophomore @ University of Illinois at Urbana-Champaign</li>
             <li>🎓 Graduated from William Fremd High School</li>
             <li>📱 Building iOS/Android apps with React Native</li>
-            <li>🚵‍ Biking towards a total of 1000 miles in 2020</li>
+            <li>🚵‍ Biking towards a total of 1000 miles in 2021</li>
             <li>📦‍ Selling items for my online business</li>
             <li>🎸 Learning to play guitar on YouTube</li>
           </ul>
